@@ -1,0 +1,42 @@
+
+    fieldset
+    {
+      background: lightyellow;
+      border: 10px solid yellow;
+      margin-bottom: 10px;
+      width: 720px;
+    }
+
+    label
+    {
+      display: inline-block;
+      width: 180px;
+      vertical-align: top;
+      text-align: right;
+    }
+    label:hover { font-size:40px }
+    textarea
+    {
+      width: 360px;
+      height: 50px;
+    }
+    .special
+    {
+      width: 60px;
+      display: inline-block;
+      color: white;
+      text-align: center;
+      vertical-align: top;
+      background-color: Purple;
+      box-shadow: 40px;
+    }
+    .specials
+    {
+      width: 60px;
+      display: inline-block;
+      color: white;
+      text-align: center;
+      vertical-align: top;
+      background-color: maroon;
+    }
+
